@@ -1,0 +1,1 @@
+c:\rust\bin\rustc foo.rs --crate-type="dylib"
